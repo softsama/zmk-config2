@@ -64,7 +64,7 @@
 	
     mouse {
             bindings = <
-    &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp DEL
+    &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &trans &trans &trans &trans &trans &trans &kp DEL
     &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
     &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
     &trans &trans &trans &trans
